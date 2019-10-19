@@ -15,7 +15,7 @@ The data used in this analysis is drawn from two sources:
 - The Wikipedia politicians by country dataset, found on Figshare: https://figshare.com/articles/Untitled_Item/5513449
 - A subset of the world population datasheet published by the Population Reference Bureau
 
-# Liceses
+# Licenses
 
 - This assignment code is released under the MIT license
 - The data sources are both licensed under the CC-BY-SA 4.0 license
